@@ -13,7 +13,7 @@ INSTRUCTIONS:
  
  2. Enter a username when prompted in order to save scores and more.
  
- 3. Use the menu option to check highscores, view personal statistics,     purchase new rockets and get help for the game.
+ 3. Use the menu option to check highscores, view personal statistics, purchase new rockets and get help for the game.
  
  4. Use the back button to navigate between pages.
 
