@@ -1,0 +1,7 @@
+maya	1	1	0
+kris	2	22	0
+omi	33	150	0
+maya	41	155	0
+ari	25	110	0
+maya	25	173	0
+
