@@ -1,5 +1,7 @@
+NAME OF PROJECT: Intergalactica
+
 BRIEF DESCRIPTION:
-The name of my term project is “Intergalactica”. It is a side scrolling game with a rocket that can move between galaxies, fight aliens and asteroids, and travel from planet to planet. The player can collect coins and use them to customise their own rocket, and also be able to gain and implement boosters during their journey to the final planet. There are 4 levels, all of which have different features and objects. 
+Intergalactica is a side scrolling game with a rocket that can move between galaxies, fight aliens and asteroids, and travel from planet to planet. The player can collect coins and use them to customise their own rocket, and also be able to gain and implement boosters during their journey to the final planet. There are 4 levels, all of which have different features and objects. 
 
 REQUIRED FILES: intergalactica-starterCode.py, classes.py (containing all the classes for the game), images (directory with all required images for the game), sounds (directory with the sound effects for the game), scoreTracker.txt (with a minimum of four entries)
 
